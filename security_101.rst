@@ -43,7 +43,7 @@ Take the "files" directory above as an example, we can split the characters like
 - The second group gives the file permissions for the *group* of users to whom the file or directory belongs to. 
   This means that anyone who is under the group "company" has read/execute permissions to the directory.
 - The third group gives the file permissions for *other* users. 
-  Basically anyone who are not the owner or a part of the user group. 
+  Basically anyone who is not the owner or a part of the user group. 
   This means that everyone else has read/execute permissions to the directory.
 
 Some more examples of permissions:
